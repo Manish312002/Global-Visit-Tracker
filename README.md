@@ -14,7 +14,7 @@ Global Visit Tracker is a web application that allows users to keep track of the
 
 - Ensure PostgreSQL is installed and running.
 - Create a database named **Web Dev**
-- Set up tables visitedCountries and countries as required by application.
+- Set up tables **visitedCountries** and **countries** as required by application.
 
 ## Error Handling
 
